@@ -21,7 +21,7 @@
   <li>How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
   <ul>
   <li><b>Vine: </b>48</li>
-  <li><b>Non-Vine: </b>15663</li>
+  <li><b>Non-Vine: </b>15,663</li>
   </ul>
   </li> 
   
