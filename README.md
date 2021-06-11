@@ -10,6 +10,16 @@
 <h2>Results</h2>
 
 <h3>Vine and Non-Vine Reviews</h3>
+<p align='center'>
+  <img src='https://github.com/tc9993/amazon-vine-analysis/blob/main/Resources/paid_stats.PNG?raw=true' alt='Amazon Paid Reviews'><br>
+  <b>Figure 1.1: </b>Amazon Paid Reviews
+</p>
+
+<p align='center'>
+  <img src='https://github.com/tc9993/amazon-vine-analysis/blob/main/Resources/unpaid_stats.PNG?raw=true' alt='Amazon Unpaid Reviews'><br>
+  <b>Figure 1.2: </b>Amazon Unpaid Reviews
+</p>
+
 <ul>
   <li>How many Vine reviews and non-Vine reviews were there?
   <ul>
